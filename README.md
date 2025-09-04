@@ -6,7 +6,6 @@ A recursive DNS resolver implemented in C++ (C++23) from scratch.
 
 A complete DNS resolver that implements the full recursive resolution process by directly querying root servers, TLD servers, and authoritative servers without using OS-provided resolver functions. It follows RFC standards and provides high performance with intelligent caching.
 
-> 📖 **For detailed documentation, tutorials, and API reference, visit [DNS Resolver Documentation](https://github.com/uiuxarghya/dns_resolver/wiki/)**
 
 ## ✨ Features
 
