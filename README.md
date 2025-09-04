@@ -38,29 +38,6 @@ A complete DNS resolver that implements the full recursive resolution process by
 - POSIX-compliant system (Linux, macOS, Unix)
 - Internet connection for DNS queries
 
-## Building
-
-```bash
-# Clone the repository
-git clone https://github.com/uiuxarghya/dns_resolver.git
-cd dns_resolver
-
-# Create build directory
-mkdir build && cd build
-
-# Configure with CMake
-cmake .. -DCMAKE_BUILD_TYPE=Release
-
-# Build the project
-make -j$(nproc)
-
-# Run tests
-make test
-
-# Install (optional)
-sudo make install
-```
-
 ## Usage
 
 ### Basic Usage
