@@ -126,7 +126,7 @@ export DNS_RESOLVER_VERBOSE=true
 
 ## Architecture
 
-DNS Resolver is designed with a modular architecture:
+DNS Resolver is designed with a modular architecture :
 
 - **Resolver Engine**: Core recursive resolution logic
 - **Packet Builder/Parser**: DNS protocol implementation
