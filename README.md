@@ -165,13 +165,6 @@ cd build
 ./tests/dns_resolver_tests --gtest_output=xml:test_results.xml
 ```
 
-## License
-
-This project is licensed under the BSD-3-Clause License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-**Arghya Ghosh** ([@uiuxarghya](https://github.com/uiuxarghya))
 
 ## Acknowledgments
 
